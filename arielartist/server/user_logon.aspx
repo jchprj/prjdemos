@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><content><user><item id="2683"><user_name></user_name><password>cccqcn2010</password><email>cccqcn@yeah.net</email><user_picture>/uploadfiles/</user_picture><nick_name>cccqcn</nick_name><mobile_phone>1324123512</mobile_phone><address></address><post></post></item></user></content>
