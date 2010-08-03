@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmls> 
+	<!--背景图片URL-->
+	<bgImg>
+		img/bg/1.png,img/bg/2.png,img/bg/3.png,img/bg/4.png,img/bg/5.png,img/bg/6.png,img/bg/7.png,img/bg/8.png,img/bg/9.png,img/bg/10.png,img/bg/11.png,img/bg/12.png	
+	</bgImg>
+	<!--素材图片相关URL-->
+	<material>
+		<!--产品-->
+		<chanpin>
+			img/material/chanpin/c1.png,img/material/chanpin/c2.png,img/material/chanpin/c3.png,img/material/chanpin/c4.png,img/material/chanpin/c5.png,img/material/chanpin/c6.png,img/material/chanpin/c7.png,img/material/chanpin/c8.png
+		</chanpin>
+		<!--游戏-->
+		<youxi>
+			img/material/youxi/g1.png,img/material/youxi/g2.png,img/material/youxi/g3.png,img/material/youxi/g4.png,img/material/youxi/g5.png,img/material/youxi/g6.png,img/material/youxi/g7.png,img/material/youxi/g8.png,img/material/youxi/g9.png,img/material/youxi/g10.png,img/material/youxi/g11.png,img/material/youxi/g12.png,img/material/youxi/g13.png,img/material/youxi/g14.png,img/material/youxi/g15.png,img/material/youxi/g16.png,img/material/youxi/g17.png												
+		</youxi>
+		<!--装饰-->
+		<zhuangshi>
+			img\material\zhuangshi\1.png,img\material\zhuangshi\2.png,img\material\zhuangshi\3.png,img\material\zhuangshi\4.png,img\material\zhuangshi\5.png,img\material\zhuangshi\6.png,img\material\zhuangshi\7.png,img\material\zhuangshi\8.png,img\material\zhuangshi\9.png,img\material\zhuangshi\10.png,img\material\zhuangshi\11.png,img\material\zhuangshi\12.png,img\material\zhuangshi\13.png,img\material\zhuangshi\14.png,img\material\zhuangshi\15.png,img\material\zhuangshi\16.png,img\material\zhuangshi\17.png,img\material\zhuangshi\18.png,img\material\zhuangshi\19.png,img\material\zhuangshi\20.png,img\material\zhuangshi\21.png,img\material\zhuangshi\22.png,img\material\zhuangshi\23.png,img\material\zhuangshi\24.png,img\material\zhuangshi\25.png,img\material\zhuangshi\26.png,img\material\zhuangshi\27.png,img\material\zhuangshi\28.png,img\material\zhuangshi\29.png,img\material\zhuangshi\30.png,img\material\zhuangshi\31.png,img\material\zhuangshi\32.png,img\material\zhuangshi\33.png,img\material\zhuangshi\34.png,img\material\zhuangshi\35.png,img\material\zhuangshi\36.png,img\material\zhuangshi\37.png,img\material\zhuangshi\38.png,img\material\zhuangshi\39.png,img\material\zhuangshi\40.png,img\material\zhuangshi\41.png,img\material\zhuangshi\42.png,img\material\zhuangshi\43.png,img\material\zhuangshi\44.png,img\material\zhuangshi\45.png,img\material\zhuangshi\46.png,img\material\zhuangshi\47.png,img\material\zhuangshi\48.png,img\material\zhuangshi\49.png,img\material\zhuangshi\50.png																																																	
+		</zhuangshi>
+		<zsinfo>
+			文件共享,拉丝工艺合金外壳,一键联,最新一代Dolby杜比家庭影院系统,nVIDIA节能技术,nVIDIA超强运算,局域网聊天,nVIDIA GT335M超强独显,超距音频捕捉,BSE高清滤噪,超薄双层黑晶边框设计,电磁屏蔽舱抗辐射技术,nVIDIA简单运行,双铜管疾风式散热,7200转高速硬盘DDR3极速内存,手动可拆卸式升级舱,增强型硬盘钢架结构,游戏互联,5小时超长续航,nVIDIA超强动力,一键录音快捷操作,高清降噪录音笔技术,白板共享,专业大功率高品质音响,14英寸无汞润眼LED屏,永不磨损的触摸板和触控按键,Optimus智能双显卡切换技术,nVIDIA Optimus技术,全指向音频捕捉,多色缤纷彩壳																																								
+		</zsinfo>
+		<!--Logo-->
+		<logo>
+			img/material/logo/l1.png,img/material/logo/l2.png,img/material/logo/l3.png,img/material/logo/l4.png
+		</logo>		
+	</material>		
+</xmls>
