@@ -96,6 +96,17 @@ if ( hasProductInstall && !hasRequestedVersion ) {
    	+ '<a href=http://www.adobe.com/go/getflash/>Get Flash</a>';
     document.write(alternateContent);  // insert non-flash content
   }
+  
+  //搜索
+  function searchGrid()
+  {
+ 	document.getElementById('PhotoSphere').searchGrid(2, 'key');
+  }
+  //格子定位
+  function movetoGrid()
+  {
+ 	document.getElementById('PhotoSphere').movetoGrid(2);
+  }
 // -->
 </script>
 <noscript>
@@ -117,5 +128,7 @@ if ( hasProductInstall && !hasRequestedVersion ) {
 			</embed>
 	</object>
 </noscript>
+<input type=button onclick="javascript:searchGrid()" value="js1" />
+<input type=button onclick="javascript:movetoGrid()" value="js2" />
 </body>
 </html>
