@@ -105,7 +105,12 @@ if ( hasProductInstall && !hasRequestedVersion ) {
   //格子定位
   function movetoGrid()
   {
- 	document.getElementById('PhotoSphere').movetoGrid(2);
+ 	document.getElementById('PhotoSphere').movetoGrid(32);
+  }
+  //泡泡框
+  function popupGrid()
+  {
+ 	document.getElementById('PhotoSphere').popupGrid(22);
   }
 // -->
 </script>
@@ -130,5 +135,6 @@ if ( hasProductInstall && !hasRequestedVersion ) {
 </noscript>
 <input type=button onclick="javascript:searchGrid()" value="js1" />
 <input type=button onclick="javascript:movetoGrid()" value="js2" />
+<input type=button onclick="javascript:popupGrid()" value="js3" />
 </body>
 </html>
