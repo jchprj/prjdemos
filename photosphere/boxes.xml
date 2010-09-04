@@ -1,0 +1,11 @@
+<boxes>
+	<id>5</id>
+	<box>
+		<pic>img/1.jpg</pic>
+		<url>http://www.xxx.com/1.html</url>
+	</box>
+	<box>
+		<pic>img/9.jpg</pic>
+		<url>http://www.xxx.com/1.html</url>
+	</box>
+</boxes>
