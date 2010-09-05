@@ -1,7 +1,7 @@
 <grids>
 	<grid>
 		<id>1</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/1.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -10,7 +10,7 @@
 	</grid>
 	<grid>
 		<id>2</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/2.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -19,7 +19,7 @@
 	</grid>
 	<grid>
 		<id>3</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/3.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -28,7 +28,7 @@
 	</grid>
 	<grid>
 		<id>4</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/4.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -37,7 +37,7 @@
 	</grid>
 	<grid>
 		<id>5</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/5.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -46,7 +46,7 @@
 	</grid>
 	<grid>
 		<id>6</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/6.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -55,7 +55,7 @@
 	</grid>
 	<grid>
 		<id>7</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/7.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -64,7 +64,7 @@
 	</grid>
 	<grid>
 		<id>8</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/8.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -73,7 +73,7 @@
 	</grid>
 	<grid>
 		<id>9</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/9.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -82,7 +82,7 @@
 	</grid>
 	<grid>
 		<id>10</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/10.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -91,7 +91,7 @@
 	</grid>
 	<grid>
 		<id>1</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/1.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -100,7 +100,7 @@
 	</grid>
 	<grid>
 		<id>2</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/2.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -109,7 +109,7 @@
 	</grid>
 	<grid>
 		<id>3</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/3.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -118,7 +118,7 @@
 	</grid>
 	<grid>
 		<id>4</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/4.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -127,7 +127,7 @@
 	</grid>
 	<grid>
 		<id>5</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/5.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -136,7 +136,7 @@
 	</grid>
 	<grid>
 		<id>6</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/6.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -145,7 +145,7 @@
 	</grid>
 	<grid>
 		<id>7</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/7.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -154,7 +154,7 @@
 	</grid>
 	<grid>
 		<id>8</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/8.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -163,7 +163,7 @@
 	</grid>
 	<grid>
 		<id>9</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/9.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -172,7 +172,7 @@
 	</grid>
 	<grid>
 		<id>10</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/10.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -181,7 +181,7 @@
 	</grid>
 	<grid>
 		<id>1</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/1.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -190,7 +190,7 @@
 	</grid>
 	<grid>
 		<id>2</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/2.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -199,7 +199,7 @@
 	</grid>
 	<grid>
 		<id>3</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/3.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -208,7 +208,7 @@
 	</grid>
 	<grid>
 		<id>4</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/4.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -217,7 +217,7 @@
 	</grid>
 	<grid>
 		<id>5</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/5.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -226,7 +226,7 @@
 	</grid>
 	<grid>
 		<id>6</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/6.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -235,7 +235,7 @@
 	</grid>
 	<grid>
 		<id>7</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/7.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -244,7 +244,7 @@
 	</grid>
 	<grid>
 		<id>8</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/8.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -253,7 +253,7 @@
 	</grid>
 	<grid>
 		<id>9</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/9.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -262,7 +262,7 @@
 	</grid>
 	<grid>
 		<id>10</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/10.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -271,7 +271,7 @@
 	</grid>
 	<grid>
 		<id>1</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/1.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -280,7 +280,7 @@
 	</grid>
 	<grid>
 		<id>2</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/2.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -289,7 +289,7 @@
 	</grid>
 	<grid>
 		<id>3</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/3.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -298,7 +298,7 @@
 	</grid>
 	<grid>
 		<id>4</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/4.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -307,7 +307,7 @@
 	</grid>
 	<grid>
 		<id>5</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/5.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -316,7 +316,7 @@
 	</grid>
 	<grid>
 		<id>6</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/6.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -325,7 +325,7 @@
 	</grid>
 	<grid>
 		<id>7</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/7.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -334,7 +334,7 @@
 	</grid>
 	<grid>
 		<id>8</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/8.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -343,7 +343,7 @@
 	</grid>
 	<grid>
 		<id>9</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/9.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -352,7 +352,7 @@
 	</grid>
 	<grid>
 		<id>10</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/10.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -361,7 +361,7 @@
 	</grid>
 	<grid>
 		<id>1</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/1.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -370,7 +370,7 @@
 	</grid>
 	<grid>
 		<id>2</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/2.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -379,7 +379,7 @@
 	</grid>
 	<grid>
 		<id>3</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/3.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -388,7 +388,7 @@
 	</grid>
 	<grid>
 		<id>4</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/4.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -397,7 +397,7 @@
 	</grid>
 	<grid>
 		<id>5</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/5.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -406,7 +406,7 @@
 	</grid>
 	<grid>
 		<id>6</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/6.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -415,7 +415,7 @@
 	</grid>
 	<grid>
 		<id>7</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/7.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -424,7 +424,7 @@
 	</grid>
 	<grid>
 		<id>8</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/8.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -433,7 +433,7 @@
 	</grid>
 	<grid>
 		<id>9</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/9.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
@@ -442,7 +442,7 @@
 	</grid>
 	<grid>
 		<id>10</id>
-		<pic>http://www.xxx.com/1.jpg</pic>
+		<pic>img/10.jpg</pic>
 		<search1>1</search1>
 		<search2>2</search2>
 		<search3>3</search3>
