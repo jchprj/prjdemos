@@ -44,6 +44,20 @@ var requiredRevision = 0;
 </head>
 
 <body scroll="no">
+搜索下标：
+<input type=text id=searchindex value="2" />
+搜索关键字：
+<input type=text id=searchkey value="key" />
+<input type=button onclick="javascript:searchGrid()" value="搜索" />
+<br />
+转动到指定id的格子：
+<input type=text id=movetoid value="8" />
+<input type=button onclick="javascript:movetoGrid()" value="转动" />
+<br />
+指定id的格子显示泡泡框：
+<input type=text id=boxid value="5" />
+<input type=button onclick="javascript:popupGrid()" value="泡泡框" />
+<br />
 <script language="JavaScript" type="text/javascript">
 <!--
 // Version check for the Flash Player that has the ability to start Player Product Install (6.0r65)
@@ -100,17 +114,21 @@ if ( hasProductInstall && !hasRequestedVersion ) {
   //搜索
   function searchGrid()
   {
- 	document.getElementById('PhotoSphere').searchGrid(2, 'key');
+  	var index = document.getElementById('searchindex').value;
+  	var key = document.getElementById('searchkey').value;
+ 	document.getElementById('PhotoSphere').searchGrid(index, key);
   }
   //格子定位
   function movetoGrid()
   {
- 	document.getElementById('PhotoSphere').movetoGrid(32);
+  	var boxid = document.getElementById('movetoid').value;
+ 	document.getElementById('PhotoSphere').movetoGrid(boxid);
   }
   //泡泡框
   function popupGrid()
   {
- 	document.getElementById('PhotoSphere').popupGrid(22);
+  	var boxid = document.getElementById('boxid').value;
+ 	document.getElementById('PhotoSphere').popupGrid(boxid);
   }
 // -->
 </script>
@@ -133,8 +151,5 @@ if ( hasProductInstall && !hasRequestedVersion ) {
 			</embed>
 	</object>
 </noscript>
-<input type=button onclick="javascript:searchGrid()" value="js1" />
-<input type=button onclick="javascript:movetoGrid()" value="js2" />
-<input type=button onclick="javascript:popupGrid()" value="js3" />
 </body>
 </html>
