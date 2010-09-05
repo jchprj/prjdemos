@@ -45,17 +45,23 @@ var requiredRevision = 0;
 
 <body scroll="no">
 搜索下标：
-<input type=text id=searchindex value="2" />
+<input type=text id=searchindex value="2" style="width:50px" />
 搜索关键字：
-<input type=text id=searchkey value="key" />
+<input type=text id=searchkey value="key" style="width:100px" />
 <input type=button onclick="javascript:searchGrid()" value="搜索" />
 <br />
 转动到指定id的格子：
-<input type=text id=movetoid value="8" />
+<input type=text id=movetoid value="8" style="width:50px" />
 <input type=button onclick="javascript:movetoGrid()" value="转动" />
 <br />
 指定id的格子显示泡泡框：
-<input type=text id=boxid value="5" />
+<input type=text id=boxid value="5" style="width:50px" />
+名字：
+<input type=text id=popname value="abc" style="width:70px" />
+内容：
+<input type=text id=poptext value="dddd" style="width:100px" />
+说明：
+<input type=text id=popinfo value="eee" style="width:100px" />
 <input type=button onclick="javascript:popupGrid()" value="泡泡框" />
 <br />
 <script language="JavaScript" type="text/javascript">
@@ -128,7 +134,10 @@ if ( hasProductInstall && !hasRequestedVersion ) {
   function popupGrid()
   {
   	var boxid = document.getElementById('boxid').value;
- 	document.getElementById('PhotoSphere').popupGrid(boxid);
+  	var popname = document.getElementById('popname').value;
+  	var poptext = document.getElementById('poptext').value;
+  	var popinfo = document.getElementById('popinfo').value;
+ 	document.getElementById('PhotoSphere').popupGrid(boxid, popname, poptext, popinfo);
   }
 // -->
 </script>
