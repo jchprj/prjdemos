@@ -26,7 +26,7 @@ Learn more about Flex at http://flex.org
 <!--  END Browser History required section -->
 
 <style>
-body { margin: 0px; overflow:hidden }
+body { margin: 0px; }
 </style>
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -43,7 +43,7 @@ var requiredRevision = 0;
 </script>
 </head>
 
-<body scroll="no">
+<body >
 搜索下标：
 <input type=text id=searchindex value="2" style="width:50px" />
 搜索关键字：
@@ -83,7 +83,7 @@ if ( hasProductInstall && !hasRequestedVersion ) {
 	AC_FL_RunContent(
 		"src", "playerProductInstall",
 		"FlashVars", "MMredirectURL="+MMredirectURL+'&MMplayerType='+MMPlayerType+'&MMdoctitle='+MMdoctitle+"",
-		"width", "1100",
+		"width", "750",
 		"height", "750",
 		"align", "middle",
 		"id", "PhotoSphere",
@@ -99,7 +99,7 @@ if ( hasProductInstall && !hasRequestedVersion ) {
 	// embed the Flash Content SWF when all tests are passed
 	AC_FL_RunContent(
 			"src", "PhotoSphere",
-			"width", "1100",
+			"width", "750",
 			"height", "750",
 			"align", "middle",
 			"id", "PhotoSphere",
@@ -143,7 +143,7 @@ if ( hasProductInstall && !hasRequestedVersion ) {
 </script>
 <noscript>
   	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
-			id="PhotoSphere" width="1100" height="750"
+			id="PhotoSphere" width="750" height="750"
 			codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
 			<param name="movie" value="PhotoSphere.swf" />
 			<param name="quality" value="high" />
